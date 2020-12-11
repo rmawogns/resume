@@ -5,6 +5,7 @@
 * 연락처 : 010 - 2694 - 1718  
 * 병역사항 : 육군 병장 만기전역 (2015 ~ 2017)  
 * email : rmawogns2@gmail.com  
+* github : github.com/rmawogns
 
 ## 학력  
 * 부산남일고등학교 졸업 (2011 ~ 2013)
