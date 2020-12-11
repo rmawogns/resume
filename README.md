@@ -18,7 +18,7 @@
 
 ## 사용기술
 * JAVA  
-hashMap, linkedList, interface 등을 사용해 복잡한 알고리즘을 간단한 프로젝트로 수행
+hashMap, linkedList, interface 등을 사용해 간단한 프로젝트 수행
 * C/C++  
   
 * Go  
