@@ -25,3 +25,7 @@
 ㅁㄴㅇ  
 * Python  
 ㅁㄴㅇ  
+* JavaScript  
+ㅁㄴㅇ  
+* SQL  
+ㅁㄴㅇ 
