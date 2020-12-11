@@ -26,6 +26,6 @@ hashMap, linkedList 등 자료구조를 이해하고 복잡한 알고리즘을 �
 * Python  
 기본적인 문법을 이해  
 * JavaScript  
-간단한 비트코인 구현 
+기본적인 문법을 이해하고 간단한 비트코인 구현 
 * SQL  
- 
+ MFC와 연동하여 MYSQL을 사용해 간단한 프로젝트 수행
