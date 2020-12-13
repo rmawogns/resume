@@ -28,7 +28,7 @@
  ## Tools  
  * Visual Studio / Visual Studio Code
  * Virtual Box / Ubuntu
- * intelliJ IDEA
+ * intelliJ IDEA / Gradle
  * mySQL
  * docker
  
