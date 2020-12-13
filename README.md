@@ -25,6 +25,13 @@
 * SQL  
  > MFC와 연동하여 MYSQL을 사용해 간단한 프로젝트 수행  
  
+ ## Tools  
+ * Visual Studio / Visual Studio Code
+ * Virtual Box / Ubuntu
+ * intelliJ IDEA
+ * mySQL
+ * docker
+ 
 ## BlockChain  
 * 부산대학교 블록체인 개발자 양성과정 1기 (2020.06 ~ 2020.12)  
 * 가상머신 Ubuntu를 사용해 Linux 환경에서 개발  
